@@ -40,7 +40,7 @@ The project applies exponential smoothing and related forecasting models to iden
 - readxl
 
 ## Repository Structure
-├── analysis.qmd            # Main Quarto file containing the full analysis
-├── data/                   # Raw and processed datasets (CSV/Excel files)
-├── output/                 # Rendered PDF report
-├── README.md               # Project overview and instructions
+-  analysis.qmd            # Main Quarto file containing the full analysis
+-  data/                   # Raw and processed datasets (CSV/Excel files)
+-   output/                 # Rendered PDF report
+-   README.md               # Project overview and instructions
